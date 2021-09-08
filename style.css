@@ -1,0 +1,166 @@
+.banner{
+    background-image: url(https://preview.colorlib.com/theme/estore/assets/img/hero/xhero_man.png.pagespeed.ic.cN86RxAvqq.webp);
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: 50rem;
+    padding: 21rem;
+    margin-top: 50px;
+    padding-right: 140px;
+    background-color: aquamarine;
+    
+   
+}
+.banner-info{
+    margin-left: 860px;
+}
+.btn{
+    background: #2577fd;
+    -moz-user-select: none;
+    text-transform: capitalize;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 0;
+    margin-bottom: 0;
+    padding: 27px 44px;
+    border-radius: 25px;
+    margin: 10px;
+    cursor: pointer;
+    transition: color .4s linear;
+    position: relative;
+    z-index: 1;
+    border: 0;
+    overflow: hidden;
+    margin: 0;
+}
+.hero-btn{
+    padding: 25px 25px;
+}
+.cat-h1{
+    text-align: center;
+}
+.categories{
+    margin-left: 10px;
+  
+    
+}
+.img-p1{
+    border-radius: 20px;
+    padding-left: 15px;
+   
+}
+
+.second-nav{
+    margin-top: 30px;
+}.nav-name{
+    font-size: 50px;
+    font-style: italic;
+}
+.first-card{
+    margin-top: 30px;
+    text-align: center;
+}
+.second-card{
+    margin-top: 30px ;
+}
+.discount{
+    text-decoration: line-through;
+    color: red;
+}
+.banner2{
+    height: 600px;
+    margin-top:120px;
+    width: 1300px;
+    
+}
+.info{
+    margin-top: 280px;
+}
+.black-btn{
+    background: #000;
+    color: violet;
+    box-shadow: 0 20px 50px 0 rgb(22 22 22 / 20%);
+    transform: translateY(0);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 0;
+    margin-bottom: 0;
+    padding: 27px 44px;
+    border-radius: 25px;
+}
+.banner-h1{
+    font-size: 40pxs;
+}
+.small{
+    margin-top: 520px;
+}
+.banner3{
+    height: 600px;
+    margin-top:220px;
+    width: 1300px;
+}
+.img-12{
+    margin-top: 90px;
+}
+.col-devide{
+    margin-top: 220px;
+}
+.col-devide2{
+    padding-left: 180px;
+    margin-top: 220px;
+}
+.jac{
+    height: 130px;
+    width: 150px;
+    background-color: rgb(236, 188, 236);
+    text-align: center;
+    border-radius: 15px;
+}
+.win{
+    height: 130px;
+    width: 150px;
+    background-color: rgb(34, 8, 34);
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 30px;
+    color: white;
+}
+.pic2{
+    margin-top: 50px;
+}
+.ter{
+    height: 130px;
+    width: 150px;
+    background-color: rgb(94, 58, 94);
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 30px;
+    color: white;
+}
+.pic3{
+    margin-top: 50px;
+}
+.banner4{
+    height: 350px;
+    width: 1300px;
+    background-color: rgb(202, 240, 241);
+    margin-top: 320px;
+}
+.written-part{
+margin-top: 150px;
+padding-left: 170px;
+}
+.search-part{
+    margin-top: 200px;
+    padding-right: 200px;
+}
+.form-control{
+    border-radius: 70px;
+}
+
